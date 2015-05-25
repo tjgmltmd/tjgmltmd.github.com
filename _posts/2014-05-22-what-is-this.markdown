@@ -9,7 +9,7 @@ categories: jekyll update
 이 포스트는 웨어러블에대한 간단한 이야기를 하기위해서 만들어 졌어요~.
 반갑습니다. 
 
-1.(1)*웨어러블 소개 
+1. 웨어러블 소개 
 
 **hi**
 
@@ -27,7 +27,7 @@ categories: jekyll update
 이제 새로운 시작입니다.
 
 
-2.(2)*그 중에서도 손목형 웨어러블
+2. 그 중에서도 손목형 웨어러블
 
 Products | Price | Color
 Samsung | $30 | white

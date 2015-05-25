@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-05-12 17:53:43
+title:  "what is this"
+date:   2015-05-22 17:53:43
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+안녕하세요. 
+이 포스트는 웨어러블에대한 간단한 이야기를 하기위해서 만들어 졌어요~.
+방갑습니다. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+여러분은 웨어러블에 대해서 들어보셨나요?
 
 {% highlight ruby %}
 def print_hi(name)

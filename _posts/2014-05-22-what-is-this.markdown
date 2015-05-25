@@ -11,17 +11,19 @@ categories: jekyll update
 
 1. 웨어러블 소개 
 
-*hi*
+**hi**
 
 
-여러분은**웨어러블**에 대해서 들어보셨나요?
+여러분은 **웨어러블** 에 대해서 들어보셨나요?
 웨어러블에 대해서 알아봅시다.
-먼저  여기서 확인 해볼까요?
+먼저 여기서 확인 해볼까요?
 [웨어러블용어해설](http://terms.naver.com/entry.nhn?docld=284575&cid=50345&categoryld=50345)
-![출처](http://terms.naver.com)
+![M](http://terms.naver.com)
 
 스티브 잡스가 만들었던 스마트폰시대
+
 >think!
+
 이제 새로운 시작입니다.
 
 

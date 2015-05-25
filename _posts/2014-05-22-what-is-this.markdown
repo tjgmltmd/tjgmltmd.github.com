@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "what is this"
+title:  "what is this-p"
 date:   2015-05-22 17:53:43
 categories: jekyll update
 ---
@@ -9,6 +9,4 @@ categories: jekyll update
 방갑습니다. 
 
 여러분은 웨어러블에 대해서 들어보셨나요?
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+

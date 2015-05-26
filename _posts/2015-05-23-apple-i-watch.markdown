@@ -12,13 +12,12 @@ categories: jekyll update
 1. PRODUCT
 2. COLOR
 3. USER
--2013
--2014
--2015
+- 2013
+- 2014
+- 2015
 
 >APPLE
->-WATCH
->-PHONE
+
 
 ### LINK
 

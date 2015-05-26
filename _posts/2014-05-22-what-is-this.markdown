@@ -15,9 +15,9 @@ categories: jekyll update
 2. 웨어러블 제품
 3. 제품비교
 4. 사용후기
-* 2013년
-* 2014년
-* 2015년
+- 2013년
+- 2014년
+- 2015년
   
 **웨어러블**
 
@@ -43,7 +43,7 @@ Inline-style:
 이제 새로운 시작입니다.
 
 
-> - 그 중에서도 손목형 웨어러블
+- 그 중에서도 손목형 웨어러블
 
 Products | Price | Color
  ------- | ----- | ----
@@ -51,13 +51,13 @@ Samsung | $30 | white
 Lg g-watch | $40 | yellow
 Apple i-watch | $50 | blue
 
-##코드
+####코드
 
-'''javascript
+
 var s = "JavaScript syntax highlighting";
 alert(s);
 
-'''python
+
 s = "Python syntax highlighting"
 print s
 

@@ -34,11 +34,13 @@ Reference-style:
 [1]: http://www.naver.com
 
 Inline-style:
-![alt text](http://github.com/tjgmltmd/tjgmltmd.github.com/blob/master/iwatch_hires.png)
+![alt text](http://yskmedia01.cafe24.com/wp-content/up loads/2013/11/웨어러블-이미지메인컷.jpg)
 
 스티브 잡스가 만들었던 스마트폰시대
 
 >think!
+>- think positively
+>- think weekend
 
 이제 새로운 시작입니다.
 
@@ -51,14 +53,11 @@ Samsung | $30 | white
 Lg g-watch | $40 | yellow
 Apple i-watch | $50 | blue
 
-####코드
+#### Code
 
 
-var s = "JavaScript syntax highlighting";
-alert(s);
-
-
-s = "Python syntax highlighting"
-print s
-
-THE END
+` #include`
+`int main(){`
+`printf("WE WEAR A WEARABLE\n");`
+`return 0`
+`}`

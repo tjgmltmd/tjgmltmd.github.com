@@ -31,10 +31,11 @@ Inline-style:
 
 Reference-style:
 [네이버][1]
+
 [1]: http://www.naver.com
 
 Inline-style:
-![Alt text](http://yskmedia01.cafe24.com/wp-content/up loads/2013/11/웨어러블-이미지메인컷.jpg)
+![alt text](http://yskmedia01.cafe24.com/wp-content/uploads/2013/11/웨어러블-이미지메인컷.jpg)
 
 스티브 잡스가 만들었던 스마트폰시대..
 

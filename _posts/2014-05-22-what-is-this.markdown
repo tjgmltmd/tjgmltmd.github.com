@@ -30,8 +30,13 @@ categories: jekyll update
 >- 그 중에서도 손목형 웨어러블
 
 Products | Price | Color
+<<<<<<< HEAD
 -------- | ----- | -----
+=======
+-------- | -------- | --------
+>>>>>>> 8d8004136f36f534c6b8c13927f744c25d61691f
 Samsung | $30 | white
 Lg g-watch | $40 | yellow
 Apple i-watch | $50 | blue
  
+******************************

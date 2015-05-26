@@ -14,9 +14,9 @@ categories: jekyll update
 1. PRODUCT
 2. COLOR
 3. USER
--2013
--2014
--2015
+- 2013
+- 2014
+- 2015
 
 >SAMSUNG
 >-GEAR
@@ -35,10 +35,11 @@ reference link:
 ![alt text](http://yskmedia01.cafe24.com/wp-content/uploads/2013/11/웨어러블-이미지메인컷.jpg)
 
 ### TABLE
+
 PRODUCT | COLOR
-------- | -----
-1 | YELLOW
-2 | BLUE
+------ | -----
+A | BLACK
+B | BLUE
 
 ### CODE
 

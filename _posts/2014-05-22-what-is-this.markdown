@@ -36,7 +36,7 @@ Reference-style:
 Inline-style:
 ![Alt text](http://yskmedia01.cafe24.com/wp-content/up loads/2013/11/웨어러블-이미지메인컷.jpg)
 
-스티브 잡스가 만들었던 스마트폰시대
+스티브 잡스가 만들었던 스마트폰시대..
 
 >think!
 >- think positively

@@ -9,7 +9,7 @@ categories: jekyll update
 이 포스트는 웨어러블에대한 간단한 이야기를 하기위해서 만들어 졌어요~.
 반갑습니다. 
 
-1. 웨어러블 소개 
+>- 웨어러블 소개 
 
 **hi**
 
@@ -18,7 +18,7 @@ categories: jekyll update
 웨어러블에 대해서 알아봅시다.
 먼저 여기서 확인 해볼까요?
 [웨어러블용어해설](http://terms.naver.com/entry.nhn?docld=284575&cid=50345&categoryld=50345)
-![M](http://terms.naver.com)
+![Alt image](http://github.com/tjgmltmd/tjgmltmd.github.com/blob/master/iwatch_hires.png)
 
 스티브 잡스가 만들었던 스마트폰시대
 
@@ -27,10 +27,10 @@ categories: jekyll update
 이제 새로운 시작입니다.
 
 
-2. 그 중에서도 손목형 웨어러블
+>- 그 중에서도 손목형 웨어러블
 
 Products | Price | Color
---------- | -------| ------
+-------- | ----- | -----
 Samsung | $30 | white
 Lg g-watch | $40 | yellow
 Apple i-watch | $50 | blue

@@ -4,6 +4,46 @@ title:  "LG-G WAtCH _SH"
 date:   2015-05-23 17:53:43
 categories: jekyll update
 ---
-안녕하세요.
-요번에 소개해 드릴 것은 LG G watch 입니다.
+*안녕하세요.*
+요번에 소개해 드릴 것은 
+**LG G watch** 입니다.
+
+## INTRODUCE
+
+1. PRODUCT
+2. PRICE
+3. USER
+-2013
+-2014
+-2015
+
+>LG G watch
+>- watch
+
+inline link:
+[LG G watch](http://www.naver.com)
+
+reference link:
+[google][1]
+
+[1]: https://www.google.co.kr
+
+![Alt text](http://yskmedia01.cafe24.com/wp-content/up loads/2013/11/웨어러블-이미지메인컷.jpg)
+
+### TABLE
+
+Product | Color
+------ | -----
+A | WHITE
+B | BLACK
+
+
+### CODE
+
+`#include`
+`int main(){`
+`printf("THINK");`
+`return 0;`
+`}`
+
 

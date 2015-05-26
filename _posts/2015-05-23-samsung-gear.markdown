@@ -19,7 +19,7 @@ categories: jekyll update
 - 2015
 
 >SAMSUNG
->-GEAR
+>- GEAR
 
 
 ### LINK

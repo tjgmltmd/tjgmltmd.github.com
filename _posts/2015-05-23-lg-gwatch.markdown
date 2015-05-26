@@ -13,12 +13,11 @@ categories: jekyll update
 1. PRODUCT
 2. PRICE
 3. USER
--2013
--2014
--2015
+- 2013
+- 2014
+- 2015
 
 >LG G watch
->- watch
 
 inline link:
 [LG G watch](http://www.naver.com)

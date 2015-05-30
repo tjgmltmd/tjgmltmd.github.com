@@ -10,18 +10,18 @@
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
+  - title: "Apple-I Watch"
+    url: "/design/app-i-watch/"
+  - title: "Samsung-Gear"
+    url: "/design/samsung-gear/"
+  - title: "ChargeHR"
+    url: "/design/ChargeHR/"
   - title: "Lg-g watch"
     url: "/design/lg-gwatch/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
+  - title: "Epson"
+    url: "/design/epson/"
+  - title: "Saomi-meband"
+    url: "/design/meband/"
   - title: "Blog-Page"
     url: "/blog/"
   - title: "Video"
@@ -51,15 +51,15 @@
     url: "/design/no-header-but-image/"
 
 - title: 웨어러블 사용후기
-  url: "/documentation/"
+  url: "/design/"
   side: left
   dropdown:
-  - title: Documentation
-    url: "/documentation/"
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: fitbit
+    url: "/design/gitbit-user/"
+  - title: "gear"
+    url: "/design/gears-user/"
+  - title: "meband"
+    url: "/design/meband-user/"
 
 - title: Blog
   url: "/blog/"

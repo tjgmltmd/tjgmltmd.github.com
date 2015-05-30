@@ -17,11 +17,11 @@ widget-2:
     title: "웨어러블 관련영상"
     url: 'http://tjgmltmd.github.io/feeling-responsive/info/'
     text: '웨어러블의 광고를 보고 어떤기기가 어떤기능이 있는지 확인하세요. 또한 개봉기 동영상을 통해 실물을 확인하세요. 분명 새로운 경험이 될것입니다.'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://tjgmltmd.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "다른 종류의 웨어러블"
     url: 'https://tjgmltmd.com/Phlow/feeling-responsive'
-    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+    text: '웨어러블은 손목형만 있는게 아닙니다. 혹시 구글 글래스에 대해 들어보셨나요? 안경, 옷 등 우리생활에 다른 웨어러블이 많습니다. 어떤제품이 있는지 확인하시죠..'
     image: github-303x182.jpg
 ---
 

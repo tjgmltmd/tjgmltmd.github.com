@@ -1,12 +1,12 @@
-- title: Start
+- title: 메인화면
   url: "/"
   side: left
 
-- title: Getting Started
+- title: 웨어러블이란
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "웨어러블 소개"
   url: "/design/"
   side: left
   dropdown:
@@ -16,8 +16,8 @@
     url: "/design/typography/"
   - title: "Page/Post"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
+  - title: "Lg-g watch"
+    url: "/design/lg-gwatch/"
   - title: "Post-Right-Sidebar"
     url: "/design/post-right-sidebar/"
   - title: "Page Full-Width"

@@ -1,12 +1,62 @@
-    <!-- Download Section -->
-    <section id="download" class="content-section text-center">
-        <div class="download-section">
-            <div class="container">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <h2>Download Grayscale</h2>
-                    <p>You can download Grayscale for free on the preview page at Start Bootstrap.</p>
-                    <a href="http://startbootstrap.com/template-overviews/grayscale/" class="btn btn-default btn-lg">Visit Download Page</a>
-                </div>
-            </div>
-        </div>
-    </section>
+<div id="download" class="row">
+  <div class="Small-12 coluumns" style="text-align: right;">
+    <a class="iconfont" htrf="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+
+
+<footer id="footer-content" class="bg-grau">
+  <div id ="footer">
+    <div class="row">
+      <div class="medium-6 large-5 columns">
+	<h5 class="shadow-black">{{ site.data.language.info_website }}</h5>
+
+	<p class="shdadow-black">
+	  {{ site.description }}
+	  <a href="{{ site.url }}/info/">{{ site.data.language.more }}</a>
+	</p>
+      </div>
+
+
+      <div class="small-6 medium-3 large-3 large-offset-1 columns">
+	{% for service_item in site.data.service %}
+	  {% if forloop.first == true %}
+	    <h5 class=" shadow-black">
+	  {% endif %}
+	{% endfor %}
+
+	<ul class="no-bullet shdow-black">
+	{% for service_item ins site.data.services %}
+	  {% if service_item.url contains 'http' %}
+	     {% assign domain = ' ' %}
+	     {% else %}
+	     {% assign domai = site.url %}
+	  {% endif %}
+	     <li {%if service_item.class %}class="{{ service_item.class }}" {% endif %}>
+		<a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
+             </li>
+	  {% endfor %}
+	  </ul>
+	</div>
+      </div>
+    </div>
+
+    <div id="subfooter">
+      <nav class="row">
+	<section id="subfooter-left" class="b30 small-12 medium-6 clumns">
+	  <ul class="inline-list">
+	    <li>Created with &heart; by <a style="display:inline;"
+	  </ul>
+	</section>
+
+	<section id="subfooter-right" class="small-12 medium-6 columns social-icons">
+	  <ul class="inline-list">
+	 {% for social_item in site.data.socialmedia %}
+	   <li><a href="{{ social_item.url }}" target="blank" class="{{ socail_ item.title }}"></a></li>
+	 {% endfor %}
+	 </ul>
+	</section>
+      </nav>
+   </div>
+</footer>
+ 

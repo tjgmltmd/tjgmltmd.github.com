@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "WE WEAR A WEARALE -Can I Help Yoy?"
+title: "WE WEAR A WEARALE"
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:

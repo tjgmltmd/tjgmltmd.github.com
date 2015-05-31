@@ -28,12 +28,9 @@
     url: "/design/fitbit/"
   - title: "Blog-Page"
     url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
   - title: "Gallery"
     url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+
   
 
 - title: "새로운 웨어러블"

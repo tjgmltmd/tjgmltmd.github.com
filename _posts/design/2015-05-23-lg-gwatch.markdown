@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "introduce"
+
 title:  "LG-G WAtCH _SH"
 categories:
     - design

@@ -1,8 +1,13 @@
 ---
-layout: post
+layout: page
 title:  "ChargeHR"
 date:   2015-05-22 17:53:43
-categories: jekyll update
+categories:
+    - design
+tags:
+    - post format
+image:
+   thumb: "unsplash_7_thumb.jpg"
 ---
 안녕하세요.
 

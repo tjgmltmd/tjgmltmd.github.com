@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "웨어러블 소개"
+title: "웨어러블 기기비교"
 subheadline: "Can I help you?"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/design/"
+permalink: "/com/"
 ---
 
 

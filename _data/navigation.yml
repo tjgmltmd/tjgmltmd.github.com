@@ -11,7 +11,7 @@
   side: left
   dropdown:
   - title: "Apple-I Watch"
-    url: "/design/app-i-watch/"
+    url: "/design/apple-i-watch/"
   - title: "Samsung-Gear"
     url: "/design/samsung-gear/"
   - title: "ChargeHR"
@@ -22,6 +22,10 @@
     url: "/design/epson/"
   - title: "Saomi-meband"
     url: "/design/meband/"
+  - title: "camcorder"
+    url: "/design/camcorder"
+  - title: "fitbit"
+    url: "/design/fitbit/"
   - title: "Blog-Page"
     url: "/blog/"
   - title: "Video"
@@ -30,11 +34,19 @@
     url: "/design/gallery/"
   - title: "Portfolio"
     url: "/design/portfolio/"
+  
 
 - title: "̮새로운 웨어러블"
-  url: "/headers/"
+  url: "/design/"
   side: left
   dropdown:
+  
+  - title: "footlogger"
+    url: "/design/footlogger/"
+  - title: "seatlogger"
+    url: "/design/seatlogger/"
+  - title: "apple sports watch"
+    url: "/design/watchsport/"
   - title: "Header with Full-Width-Image"
     url: "/design/header-full-width-image/"
   - title: "Header with Image and Pattern"
@@ -54,8 +66,8 @@
   url: "/design/"
   side: left
   dropdown:
-  - title: fitbit
-    url: "/design/gitbit-user/"
+  - title: "fitbit"
+    url: "/design/fitbit-user/"
   - title: "gear"
     url: "/design/gears-user/"
   - title: "meband"

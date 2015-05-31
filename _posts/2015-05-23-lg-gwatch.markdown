@@ -1,49 +1,78 @@
 ---
 layout: post
-title:  "LG-G WAtCH _SH"
+title:  "LG-G WAtCH"
 date:   2015-05-23 17:53:43
 categories: jekyll update
 permalink: /design/lg-gwatch/
 ---
-*안녕하세요.*
-요번에 소개해 드릴 것은 
-**LG G watch** 입니다.
-
-## INTRODUCE
-
-1. PRODUCT
-2. PRICE
-3. USER
-- 2013
-- 2014
-- 2015
-
->LG G watch
-
-inline link:
-[LG G watch](http://www.naver.com)
-
-reference link:
-[google][1]
-
-[1]: https://www.google.co.kr
-
-![alt text](http://yskmedia01.cafe24.com/wp-content/uploads/2013/11/웨어러블-이미지메인컷.jpg)
-
-### TABLE
-
-Product | Color
------- | -----
-A | WHITE
-B | BLACK
 
 
-### CODE
 
-`#include`
-`int main(){`
-`printf("THINK");`
-`return 0;`
-`}`
+##G watch Urbane
 
 
+###1) 기능
+
+#####(1) Stands Alone
+Wi-Fi와 Offline Music 기능을 통해 스마트 폰에 저장된 음원이 LG Music App을 통해
+워치로 전송되어 각종 활동 시에 휴대폰 없이도 블루투스 헤드셋으로 음악 감상 가능
+
+#####(2) 블루투스 없이 사용 가능한 Wi-fi mode
+Wi-Fi 기능을 통해 블루투스 연결이 안 되는 원격 거리에서도 클라우드 서버를 통해
+블루투스로 연결이 된 것과 동일한 기능 제공 ( 단, 비밀 번호 설정된 AP의 경우,
+폰에서 연결된 이력이 있어야 함.)
+
+#####(3) 항상 유지되는 시계화면
+화면 꺼짐 없이 시계 화면을 항상 유지할 수 있음
+
+#####(4) 연속 심박 측정
+다양한 Activity를 하는 중 지속적 심박 측정이 가능하며 그래프를 통한 기록/ 관리
+기능 제공
+
+
+
+###2) 지원 기기
+Android 4.3이상의 스마트폰
+*현재 iPhone과는 호환되지 않음*
+
+
+
+###3) 특징
+
+**진짜 '시계' 같은 디자인의 G watch**
+
+메탈 바디, 천연 가죽 줄, 최적화된 원형 화면을 통해 아날로그 시계 디자인을 구현.
+실버와 골드의 두 가지 색상을 제공하며 교체 가능한 22mm 표준 시계 줄을 사용
+
+
+
+###4) 사양
+
+####**1_사이즈(main)**
+
+- 크기
+
+  main 320 * 320 (245 ppi),
+  52.2 * 45.5 * 10.9 mm
+
+- 무게
+
+  66.5g
+
+
+
+####**2_색상**
+- 실버
+- 골드
+
+
+
+####**3_배터리 및 전원**
+- 평균 사용 시간: 1~3일
+- 410mAh
+
+
+
+
+###5) 가격
+491,190원 ( 판매 사이트마다 가격 차이가 있을 수 있음 )

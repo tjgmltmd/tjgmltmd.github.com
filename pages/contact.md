@@ -3,11 +3,12 @@ layout: page
 title: "Contact"
 meta_title: "Contact and use our contact form"
 show_meta: false
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+subheadline: "문의하세요"
+teaser: "문의하시려면 아래 양식을 작성해주세요."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+
+궁금하면 500원
 
 <div class="panel">
 <iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://phlowmedia.wufoo.com/embed/z7x3k1/"></iframe>
@@ -15,4 +16,4 @@ If you need a fabulous contact form for your website, I suggest you use [Wufoo][
 
 
 
- [1]: http://www.wufoo.com/
+ 

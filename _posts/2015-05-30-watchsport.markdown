@@ -7,11 +7,15 @@ permalink: /design/watchsport/
 ---
 
 
+
 ##APPLE - Watch Sport
 
 ![alt text](http://i.imgur.com/xHRPwbg.png)
 
+
+
 ###1) 기능
+
 #####(1) 활동량측정
 '활동'앱을 통하여 심박수, 칼로리소모, 강도 높은 활동 시간, 앉고 일어난 시간 등
 운동에 대한 시간, 정확한 GPS와 가속도계를 통한 거리 계산, 칼로리, 속도 실시간 통계
@@ -25,12 +29,18 @@ permalink: /design/watchsport/
 #####(4) iPhone과 연동
 지도, 메시지, 음악, 캘린더, 알림과 같은 앱을 추가하여 사용가능
 
+
+
 ###2) 제품 사양
 
 ![alt text](http://i.imgur.com/pynanXT.png)
 
+
+
 ###3) 가격
 약 75만원
+
+
 
 ###4) 출시 예정일
 국내 출시일 미정

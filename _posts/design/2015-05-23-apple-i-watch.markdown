@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "apple i-watch_L"
 date:   2015-05-23 17:53:43
 categories: jekyll update

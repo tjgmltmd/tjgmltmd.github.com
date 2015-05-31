@@ -2,10 +2,10 @@
 layout: page
 show_meta: false
 title: "웨어러블이란"
-subheadline: "A Step-by-Step Guide"
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
-header:
-   image_fullwidth: "header_homepage_13.jpg"
+subheadline: "A Step-by-step "
+teaser: "you know about it?"
+header: "I know, you know, we know"
+image_fullwidth: "header_homepage_13.jpg"
 permalink: "/getting-started/"
 ---
 여러분들은 웨어러블에대해 얼마나 알고 계십니까?
@@ -15,6 +15,7 @@ permalink: "/getting-started/"
 특히 저희 블로그에서는 손목형 디바이스에 대한 설명을 주로 해 드리겠습니다.
 
 저희 블로그에서 제공하는 정보들 입니다.
+
 1. 웨어러블 기기 소개
 2. 새로 나온 웨어러블 소개
 3. 사람들의 웨어러블 사용후기
@@ -25,7 +26,3 @@ permalink: "/getting-started/"
 
 이렇게 새롭고 신기한 정보들을 제공해 드립니다.
 
-<a class="radius button small" href="{{ site.url }}/documentation/">Check out the documentation for all the tricks ›</a>
-
-
- [1]: {{ site.url }}/documentation/

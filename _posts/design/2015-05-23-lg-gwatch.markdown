@@ -2,7 +2,12 @@
 layout: post
 title:  "LG-G WAtCH _SH"
 date:   2015-05-23 17:53:43
-categories: jekyll update
+categories:
+    - design
+tags:
+    - post format
+image:
+   thumb: "unsplash_7_thumb.jpg"
 permalink: /design/lg-gwatch/
 ---
 *안녕하세요.*

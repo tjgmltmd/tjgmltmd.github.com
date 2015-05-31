@@ -1,6 +1,5 @@
 ---
 layout: page
-show_meta: false
 title: "웨어러블이란"
 subheadline: "A Step-by-step "
 teaser: "you know about it?"

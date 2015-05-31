@@ -1,8 +1,8 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+title: "WE WEAR A WEARABLE"
+subheadline: "Can I help you?"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/design/"

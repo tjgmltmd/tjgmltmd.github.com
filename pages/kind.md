@@ -1,18 +1,18 @@
 ---
 layout: page
 show_meta: false
-subheadline: "출시예정!"
-title: "NEW WEARABLE"
+subheadline: ""
+title: "다른 종류의 웨어러블"
 teaser: ""
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/headers/"
+permalink: "/kind/"
 ---
 
 
 - [FOOTLOGGER](https://tjgmltmd.github.io//design/footlogger/)
 - [SEATLOGGER](https://tjgmltmd.github.io//design/seatlogger/)
-- [APPLE SPORTS WATCH](https://tjgmltmd.github.io//design/watchsport/)
+
 
 
 <ul>

@@ -9,8 +9,8 @@ permalink: "/com/"
 ---
 
 
-- [GO](https://tjgmltmd.github.io//com/mivsfi/)
-
+- [Mi Band & Fitbit charge](https://tjgmltmd.github.io//com/mivsfi/)
+- [Galaxy Gear & G watch](https://tjgmltmd.github.io//com/gavsgw/)
 
 <ul>
     {% for post in site.categories.design %}

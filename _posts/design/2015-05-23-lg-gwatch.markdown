@@ -3,6 +3,7 @@ layout: post
 title:  "LG-G WAtCH _SH"
 date:   2015-05-23 17:53:43
 categories: jekyll update
+permalink: /design/lg-gwatch/
 ---
 *안녕하세요.*
 요번에 소개해 드릴 것은 

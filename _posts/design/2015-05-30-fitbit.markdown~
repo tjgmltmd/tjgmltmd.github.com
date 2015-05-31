@@ -53,8 +53,3 @@ MEMS 가속 센서를 이용하여 3개의 축을 중심으로 걸음 수, 이�
 약 6만 5천원
 
 
- [1]: http://foundation.zurb.com/docs/components/clearing.html
- [2]: http://foundation.zurb.com/docs/components/block_grid.html
- [3]: {{ site.url }}/design/page/
- [4]: {{ site.url }}/design/page-fullwidth/
-

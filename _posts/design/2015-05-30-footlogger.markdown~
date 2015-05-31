@@ -37,9 +37,3 @@
 ###5) 출시 예정
 
 2015년 상반기
-
-
- [1]: http://foundation.zurb.com/docs/components/clearing.html
- [2]: http://foundation.zurb.com/docs/components/block_grid.html
- [3]: {{ site.url }}/design/page/
- [4]: {{ site.url }}/design/page-fullwidth/

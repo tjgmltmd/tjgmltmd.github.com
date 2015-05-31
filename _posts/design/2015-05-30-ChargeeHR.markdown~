@@ -1,28 +1,24 @@
 ---
 layout: post
-title:  "what is this_P"
+title:  "ChargeHR"
 date:   2015-05-22 17:53:43
 categories: jekyll update
 ---
-*안녕하세요.*
+안녕하세요.
 
-이 포스트는 웨어러블에대한 간단한 이야기를 하기위해서 만들어 졌어요~.
-반갑습니다. 
+이번에 소개시켜 드릴 웨어러블은 -입니다.
 
 ### 목차
 
 1. 웨어러블 소개 
-2. 웨어러블 제품
-3. 제품비교
-4. 사용후기
-- 2013년
-- 2014년
-- 2015년
+2. 웨어러블 기능
+3. 지원기기
+
   
-**웨어러블**
+-은 이쁘고 실용성을 모두 갖춘 웨어러블입니다.
 
 
-여러분은 웨어러블에 대해서 들어보셨나요?
+*웨어러블의 기능* 
 웨어러블에 대해서 알아봅시다.
 먼저 여기서 확인 해볼까요?
 
@@ -62,8 +58,3 @@ Apple i-watch | $50 | blue
 `printf("WE WEAR A WEARABLE\n");`
 `return 0`
 `}`
-
- [1]: http://foundation.zurb.com/docs/components/clearing.html
- [2]: http://foundation.zurb.com/docs/components/block_grid.html
- [3]: {{ site.url }}/design/page/
- [4]: {{ site.url }}/design/page-fullwidth/

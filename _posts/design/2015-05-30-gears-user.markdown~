@@ -22,9 +22,3 @@
 휴대폰에서 테더링을 설정한 후 테더링을 하면 자동으로 연결되고 카카오톡 외에도 네이버 밴드도 
 되고 다 되요. 다만 읽기 알림보기 정도만 될 뿐 답장을 보내거나 글을 쓸 수 없습니다.
 
-
- [1]: http://foundation.zurb.com/docs/components/clearing.html
- [2]: http://foundation.zurb.com/docs/components/block_grid.html
- [3]: {{ site.url }}/design/page/
- [4]: {{ site.url }}/design/page-fullwidth/
-

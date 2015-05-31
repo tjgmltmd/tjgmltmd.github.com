@@ -9,14 +9,7 @@ permalink: "/com/"
 ---
 
 
-- [APPLE-I WATCH](https://tjgmltmd.github.io//design/apple-i-watch/)
-- [SAMSUNG-GEAR](https://tjgmltmd.github.io//design/samsung-gear/)
-- [CHARGEHR](https://tjgmltmd.github.io//design/chargeHR/)
-- [LG-GWATCH](https://tjgmltmd.github.io//design/lg-gwatch/)
-- [EPSON](https://tjgmltmd.github.io//design/epson/)
-- [XIAOMI-MIBAND](https://tjgmltmd.github.io//design/meband/)
-- [CAMCORDER](https://tjgmltmd.github.io//design/camcorder/)
-- [FITBIT](https://tjgmltmd.github.io//design/fitbit/)
+- [GO](https://tjgmltmd.github.io//com/mivsfi/)
 
 
 <ul>

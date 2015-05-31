@@ -20,9 +20,3 @@
 Fitbit의 단점을 말하자면 한국어 기능이 아직 지원되지 않는다는 것입니다.
 전화통화가 와도 영어로 저장되어있지 않으면 전화 온 표시만 뜰 뿐입니다.그래도 
 이 부분은 나중에 업그레이드가 될 것이라고 생각합니다.  
-
-
- [1]: http://foundation.zurb.com/docs/components/clearing.html
- [2]: http://foundation.zurb.com/docs/components/block_grid.html
- [3]: {{ site.url }}/design/page/
- [4]: {{ site.url }}/design/page-fullwidth/

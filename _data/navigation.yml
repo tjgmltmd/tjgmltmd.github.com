@@ -49,7 +49,7 @@
     url: "/design/watchsport/"
 
 - title: 웨어러블 사용후기
-  url: "/design/"
+  url: "/user/"
   side: left
   dropdown:
   - title: "fitbit"

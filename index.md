@@ -22,7 +22,7 @@ widget-3:
     title: "다른 종류의 웨어러블"
     url: 'https://tjgmltmd.com/Phlow/feeling-responsive'
     text: '웨어러블은 손목형만 있는게 아닙니다. 혹시 구글 글래스에 대해 들어보셨나요? 안경, 옷 등 우리생활에 다른 웨어러블이 많습니다. 어떤제품이 있는지 확인하시죠..'
-    image: 1234.jpg
+    image: 1234.png
 ---
 
 

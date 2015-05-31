@@ -5,7 +5,7 @@ title: "웨어러블이란"
 subheadline: "A Step-by-step "
 teaser: "you know about it?"
 header: "I know, you know, we know"
-image_fullwidth: "header_homepage_13.jpg"
+image: "header_homepage_13.jpg"
 permalink: "/getting-started/"
 ---
 여러분들은 웨어러블에대해 얼마나 알고 계십니까?

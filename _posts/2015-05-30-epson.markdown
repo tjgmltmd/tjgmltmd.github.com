@@ -1,3 +1,12 @@
+---
+layout: post
+title: "epson"
+date: 2015-05-30-06:18:00
+categories: jekyll update
+permalink: /design/epson/
+---
+
+
 ##Epson - MOVERIO BT-200AV 스마트 글래스
 
 ###1) 기능

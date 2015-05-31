@@ -1,3 +1,13 @@
+---
+layout: post
+title: fitbit
+date: 2015-05-30-06:14:44
+categories: jekyll update
+permalink: /design/fitbit-user/
+---
+
+
+
 ##Fitbit charge 후기
 
 제가 스마트 기기를 사게 된 이유는 걸음수나 이동거리와 같이 활동내용을 눈으로

@@ -1,3 +1,14 @@
+---
+layout: post
+title: "gear"
+date: 2015-05-30-06:14:45
+categories: jekyll update
+permalink: /design/gears-user/
+---
+
+
+
+
 ##삼성 GEAR S 후기
 
 한 달에 만원이면 사용가능합니다. 기계 값인지 사용 요금인지 모르겠습니다만 약정

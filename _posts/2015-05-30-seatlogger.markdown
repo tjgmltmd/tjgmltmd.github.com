@@ -1,3 +1,13 @@
+---
+layout: post
+title: "seatlogger"
+date: 2015-05-30-06:16:00
+categories: jekyll update
+permalink: /design/seatlogger/
+---
+
+
+
 ##쓰리엘랩스 -  '싯로거'(SeatLogger)
 
 ![alt text](http://i.imgur.com/E9zA3ZV.png)

@@ -3,6 +3,7 @@ layout: post
 title:  "ChargeHR"
 date:   2015-05-22 17:53:43
 categories: jekyll update
+permalink: /design/ChargeeHR/
 ---
 안녕하세요.
 

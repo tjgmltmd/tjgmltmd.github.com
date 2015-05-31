@@ -1,3 +1,15 @@
+---
+layout: post
+title: "meband"
+date: 2015-05-30-06:14:46
+categories: jekyll update
+permalink: /design/meband-user/
+---
+
+
+
+
+
 ##샤오미 미밴드 후기
 
 

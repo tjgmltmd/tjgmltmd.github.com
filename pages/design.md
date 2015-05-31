@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "WE WEAR A WEARABLE"
+title: "웨어러블 사용후기"
 subheadline: "Can I help you?"
 header:
    image_fullwidth: "header_unsplash_5.jpg"

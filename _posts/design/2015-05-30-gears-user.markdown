@@ -1,3 +1,14 @@
+---
+layout: page
+
+title:  "comment of GEAR S"
+categories:
+    - design
+tags:
+    - post format
+image:
+   thumb: "unsplash_7_thumb.jpg"
+---
 ##삼성 GEAR S 후기
 
 한 달에 만원이면 사용가능합니다. 기계 값인지 사용 요금인지 모르겠습니다만 약정

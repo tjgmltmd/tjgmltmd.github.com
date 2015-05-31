@@ -1,8 +1,13 @@
 ---
-layout: post
-title:  "LG-G WAtCH _SH"
-date:   2015-05-23 17:53:43
-categories: jekyll update
+layout: page
+subheadline: "introduce"
+title:  "LG-G WAtCH "
+categories:
+    - design
+tags:
+    - post format
+image:
+   thumb: "unsplash_7_thumb.jpg"
 permalink: /design/lg-gwatch/
 ---
 *안녕하세요.*
@@ -45,5 +50,8 @@ B | BLACK
 `printf("THINK");`
 `return 0;`
 `}`
-
+ [1]: http://foundation.zurb.com/docs/components/clearing.html
+ [2]: http://foundation.zurb.com/docs/components/block_grid.html
+ [3]: {{ site.url }}/design/page/
+ [4]: {{ site.url }}/design/page-fullwidth/
 

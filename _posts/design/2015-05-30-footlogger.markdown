@@ -1,3 +1,15 @@
+---
+layout: page
+
+title:  "FootLogger"
+categories:
+    - design
+tags:
+    - post format
+image:
+   thumb: "unsplash_7_thumb.jpg"
+
+---
 ##쓰리엘랩스 - '풋로거'(FootLogger)
 
 ![alt text](http://i.imgur.com/EYAwDJ7.png)

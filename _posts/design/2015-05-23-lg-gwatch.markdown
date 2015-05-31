@@ -1,7 +1,7 @@
 ---
 layout: page
-
-title:  "LG-G WAtCH _SH"
+subheadline: "introduce"
+title:  "LG-G WAtCH"
 categories:
     - design
 tags:

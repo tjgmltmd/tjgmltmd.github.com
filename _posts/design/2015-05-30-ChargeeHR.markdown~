@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title:  "ChargeHR"
 date:   2015-05-22 17:53:43
-categories: jekyll update
+categories: introduce
 ---
 안녕하세요.
 
@@ -58,3 +58,5 @@ Apple i-watch | $50 | blue
 `printf("WE WEAR A WEARABLE\n");`
 `return 0`
 `}`
+
+

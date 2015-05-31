@@ -1,3 +1,16 @@
+---
+layout: page
+
+title:  "Watch Sport"
+categories:
+    - design
+tags:
+    - post format
+image:
+   thumb: "unsplash_7_thumb.jpg"
+---
+
+
 ##APPLE - Watch Sport
 
 ![alt text](http://i.imgur.com/xHRPwbg.png)

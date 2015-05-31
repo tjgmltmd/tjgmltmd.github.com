@@ -1,3 +1,15 @@
+---
+layout: page
+
+title:  "Comment of Fitbit "
+categories:
+    - design
+tags:
+    - post format
+image:
+   thumb: "unsplash_7_thumb.jpg"
+
+---
 ##Fitbit charge 후기
 
 제가 스마트 기기를 사게 된 이유는 걸음수나 이동거리와 같이 활동내용을 눈으로

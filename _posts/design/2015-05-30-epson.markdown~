@@ -1,4 +1,17 @@
-##Epson - MOVERIO BT-200AV 스마트 글래스
+---
+layout: page
+
+title:  "Epson"
+categories:
+    - design
+tags:
+    - post format
+image:
+   thumb: "unsplash_7_thumb.jpg"
+permalink: /design/lg-gwatch2/
+---
+##Epson 
+- MOVERIO BT-200AV 스마트 글래스
 
 ###1) 기능
 #####(1) 영상 시청 기능
@@ -27,3 +40,9 @@ HDTV 화면은 물론, 녹화된 영상도 눈앞에서 보는 듯한 현장감�
 
 ###4) 가격
 약 90만원
+
+
+ [1]: http://foundation.zurb.com/docs/components/clearing.html
+ [2]: http://foundation.zurb.com/docs/components/block_grid.html
+ [3]: {{ site.url }}/design/page/
+ [4]: {{ site.url }}/design/page-fullwidth/

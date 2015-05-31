@@ -1,3 +1,15 @@
+---
+layout: page
+
+title:  "SeatLogger"
+categories:
+    - design
+tags:
+    - post format
+image:
+   thumb: "unsplash_7_thumb.jpg"
+---
+
 ##쓰리엘랩스 -  '싯로거'(SeatLogger)
 
 ![alt text](http://i.imgur.com/E9zA3ZV.png)

@@ -10,7 +10,7 @@ header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
     title: "웨어러블 기기 비교"
-    url: 'http://tjgmltmd.github.io/com/'
+    url: 'http://tjgmltmd.github.io/pages/com/'
     text: '손목형 웨어러블에는 많은 종류의 기기가 있습니다. 비교를 통해 자신과 맞는 웨어러블을 선택하십시오. 웨어러블은 가격 기능 모양에 천차만별! 자신에게 딱 맞는 웨어러블을 찾아가시기 위해 여기서 시도 하십시오.'
     image: unsplash_9-302x182.jpg
 widget-2:

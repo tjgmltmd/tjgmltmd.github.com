@@ -1,3 +1,16 @@
+---
+layout: post
+title: "footlogger"
+date: 2015-05-30-06:15:00
+categories: jekyll update
+permalink: /design/footlogger/
+---
+
+
+
+
+
+
 ##쓰리엘랩스 - '풋로거'(FootLogger)
 
 ![alt text](http://i.imgur.com/EYAwDJ7.png)

@@ -1,3 +1,12 @@
+---
+layout: post
+title: "apple watch sport"
+date: 2015-05-30-06:17:00
+categories: jekyll update
+permalink: /design/watchsport/
+---
+
+
 ##APPLE - Watch Sport
 
 ![alt text](http://i.imgur.com/xHRPwbg.png)
